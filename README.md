@@ -9,18 +9,23 @@ pixiv Page Jumpとは
 -------------
 ####【１】下記URLをブラウザでブックマークしてください。  
 >```javascript
-javascript:(function(){var%20s=document.createElement("script");s.charset="UTF-8";s.src="https://rawgithub.com/suzunashi/pixivpagejump/master/pixivpagejump.js";document.body.appendChild(s)})();
+javascript:(function(){var%20s=document.createElement("script");s.charset="UTF-8";s.src="https://rawgithub.com/suzunashi/pixivpagejump/master/min/pixivjumpage.min.js";document.body.appendChild(s)})();
 >```  
 >ブックマークの方法に不明点あれば、[こちら](http://www.lifehacker.jp/2013/04/130402bookmarklet_matome.html)をご参照ください。  
+>なおブラウザがFirefoxの場合の、ブックマーク登録の様子は以下のようなイメージです。  
+>![Firefoxでのブックマーク登録イメージ](https://raw.github.com/suzunashi/pixivpagejump/master/description/firefox_bookmark.jpg "Firefoxでのブックマーク登録イメージ")  
 
 ####【２】pixiv(http://www.pixiv.net/)にログインしてください。
+>![pixivのトップ画面](https://raw.github.com/suzunashi/pixivpagejump/master/description/pixiv_top.jpg "pixivのトップ画面")  
 
 ####【３】上記【１】で登録したブックマークをクリックしてください。
 
 ####【４】「ジャンプするページ数を指定してください」というポップアップダイアログにてジャンプしたいページ数を指定してください。
+>![ページ数入力画面](https://raw.github.com/suzunashi/pixivpagejump/master/description/popup_dialog.jpg "ページ数入力画面")  
 
 ####【５】指定したページより先の「フォロー新着ページ」の作品が表示されるようになります。
 >!例えばページ数で「10」を指定すると、1ページあたり50作品であるため、新着から数えて500番目以降の作品が表示されるようになります。
+>![実行結果](https://raw.github.com/suzunashi/pixivpagejump/master/description/result.jpg "実行結果")  
 
 対応ブラウザ
 -------------

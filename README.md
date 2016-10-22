@@ -24,7 +24,7 @@ javascript:(function(){var%20s=document.createElement("script");s.charset="UTF-8
 >![ページ数入力画面](https://raw.github.com/suzunashi/pixivpagejump/master/description/popup_dialog.jpg "ページ数入力画面")  
 
 ####【５】指定したページより先の「フォロー新着ページ」の作品が表示されるようになります。
->!例えばページ数で「10」を指定すると、1ページあたり50作品であるため、新着から数えて500番目以降の作品が表示されるようになります。
+>例えばページ数で「10」を指定すると、1ページあたり50作品であるため、新着から数えて500番目以降の作品が表示されるようになります。
 >![実行結果](https://raw.github.com/suzunashi/pixivpagejump/master/description/result.jpg "実行結果")  
 
 対応ブラウザ

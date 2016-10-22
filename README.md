@@ -15,7 +15,7 @@ javascript:(function(){var%20s=document.createElement("script");s.charset="UTF-8
 >なおブラウザがFirefoxの場合の、ブックマーク登録の様子は以下のようなイメージです。  
 >![Firefoxでのブックマーク登録イメージ](https://raw.github.com/suzunashi/pixivpagejump/master/description/firefox_bookmark.jpg "Firefoxでのブックマーク登録イメージ")  
 
-####【２】pixiv(http://www.pixiv.net/)にログインしてください。
+####【２】pixivにログインしてください。http://www.pixiv.net/
 >![pixivのトップ画面](https://raw.github.com/suzunashi/pixivpagejump/master/description/pixiv_top.jpg "pixivのトップ画面")  
 
 ####【３】上記【１】で登録したブックマークをクリックしてください。

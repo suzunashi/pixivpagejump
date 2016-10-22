@@ -9,7 +9,7 @@ pixiv Page Jumpとは
 -------------
 ####【１】下記URLをブラウザでブックマークしてください。  
 >```javascript
-javascript:(function(){var%20s=document.createElement("script");s.charset="UTF-8";s.src="https://rawgithub.com/suzunashi/pixivpagejump/master/min/pixivjumpage.min.js";document.body.appendChild(s)})();
+javascript:(function(){var%20s=document.createElement("script");s.charset="UTF-8";s.src="https://rawgithub.com/suzunashi/pixivpagejump/master/minjs/pixivjumpage.min.js";document.body.appendChild(s)})();
 >```  
 >ブックマークの方法に不明点あれば、[こちら](http://www.lifehacker.jp/2013/04/130402bookmarklet_matome.html)をご参照ください。  
 >なおブラウザがFirefoxの場合の、ブックマーク登録の様子は以下のようなイメージです。  
